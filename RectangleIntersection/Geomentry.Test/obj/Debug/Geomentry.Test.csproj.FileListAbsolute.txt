@@ -1,0 +1,17 @@
+C:\Users\na44097\Source\repos\Motorola\RectangleIntersection\Geomentry.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\na44097\Source\repos\Motorola\RectangleIntersection\Geomentry.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\na44097\Source\repos\Motorola\RectangleIntersection\Geomentry.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\na44097\Source\repos\Motorola\RectangleIntersection\Geomentry.Test\bin\Debug\Geomentry.Test.dll
+C:\Users\na44097\Source\repos\Motorola\RectangleIntersection\Geomentry.Test\bin\Debug\Geomentry.Test.pdb
+C:\Users\na44097\Source\repos\Motorola\RectangleIntersection\Geomentry.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\na44097\Source\repos\Motorola\RectangleIntersection\Geomentry.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\na44097\Source\repos\Motorola\RectangleIntersection\Geomentry.Test\bin\Debug\RectangleIntersection.exe
+C:\Users\na44097\Source\repos\Motorola\RectangleIntersection\Geomentry.Test\bin\Debug\RectangleIntersection.pdb
+C:\Users\na44097\Source\repos\Motorola\RectangleIntersection\Geomentry.Test\bin\Debug\RectangleIntersection.exe.config
+C:\Users\na44097\Source\repos\Motorola\RectangleIntersection\Geomentry.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\na44097\Source\repos\Motorola\RectangleIntersection\Geomentry.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\na44097\Source\repos\Motorola\RectangleIntersection\Geomentry.Test\obj\Debug\Geomentry.Test.csprojAssemblyReference.cache
+C:\Users\na44097\Source\repos\Motorola\RectangleIntersection\Geomentry.Test\obj\Debug\Geomentry.Test.csproj.CoreCompileInputs.cache
+C:\Users\na44097\Source\repos\Motorola\RectangleIntersection\Geomentry.Test\obj\Debug\Geomentry.Test.csproj.CopyComplete
+C:\Users\na44097\Source\repos\Motorola\RectangleIntersection\Geomentry.Test\obj\Debug\Geomentry.Test.dll
+C:\Users\na44097\Source\repos\Motorola\RectangleIntersection\Geomentry.Test\obj\Debug\Geomentry.Test.pdb
