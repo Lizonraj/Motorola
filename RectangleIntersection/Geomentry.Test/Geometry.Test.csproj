@@ -53,6 +53,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+    <None Include="TestDiagram\Rough_Diagram.xlsx" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\RectangleIntersection\Geometry.csproj">
