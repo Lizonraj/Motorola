@@ -12,18 +12,14 @@ namespace Geometry
     {
         public bool DoesIntersect(Rectangle R1, Rectangle R2)
         {
-            //2 rectangles does not intersect if they are side to side (i.e either completly in right/left )
-            if(R1.X1 > R2.X2 || R2.X1 > R1.X2)
+            //2 Rectangles would not intersect each other if the vertices are not touching each other
+            //they are side to each other or placed top and bottom of each other
+            if (R1.X1 < R2.X2 && R2.X2 > R1.X1 && R1.Y1 < R2.Y2 && R1.Y2 > R2.Y1)
             {
                 return false;
             }
 
-            //if 2 rectangles are on top/bottom of each other
-            if(R1.Y1 > R2.Y2 || R2.Y1 > R2.Y2)
-            {
-                return false;
-            }
-
+            //If above condition doesn't satisfy then, the rectangle are overlapped as either one of the vertices are inside the other
             return true;
         }
     }

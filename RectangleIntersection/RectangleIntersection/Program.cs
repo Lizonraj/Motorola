@@ -8,9 +8,11 @@ namespace Geometry
 		static void Main(string[] args)
 		{
             //To Print all file names for a given Folder and its subfolders
-            FolderIteration fi = new FolderIteration();
-            fi.PrintFileName();
+            //FolderIteration fi = new FolderIteration();
+            //fi.PrintFileName();
 
+            //To check if 2 Rectangles intersect each other
+            
 
 		}
 	}

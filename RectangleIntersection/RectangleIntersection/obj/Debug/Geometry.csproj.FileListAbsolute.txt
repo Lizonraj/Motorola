@@ -5,3 +5,10 @@ C:\Users\na44097\Source\Repos\rectangle\RectangleIntersection\RectangleIntersect
 C:\Users\na44097\Source\Repos\rectangle\RectangleIntersection\RectangleIntersection\bin\Debug\RectangleIntersection.pdb
 C:\Users\na44097\Source\Repos\rectangle\RectangleIntersection\RectangleIntersection\obj\Debug\RectangleIntersection.exe
 C:\Users\na44097\Source\Repos\rectangle\RectangleIntersection\RectangleIntersection\obj\Debug\RectangleIntersection.pdb
+C:\Users\na44097\Source\repos\Motorola\RectangleIntersection\RectangleIntersection\bin\Debug\RectangleIntersection.exe.config
+C:\Users\na44097\Source\repos\Motorola\RectangleIntersection\RectangleIntersection\bin\Debug\RectangleIntersection.exe
+C:\Users\na44097\Source\repos\Motorola\RectangleIntersection\RectangleIntersection\bin\Debug\RectangleIntersection.pdb
+C:\Users\na44097\Source\repos\Motorola\RectangleIntersection\RectangleIntersection\obj\Debug\Geometry.csproj.CoreCompileInputs.cache
+C:\Users\na44097\Source\repos\Motorola\RectangleIntersection\RectangleIntersection\obj\Debug\RectangleIntersection.exe
+C:\Users\na44097\Source\repos\Motorola\RectangleIntersection\RectangleIntersection\obj\Debug\RectangleIntersection.pdb
+C:\Users\na44097\Source\repos\Motorola\RectangleIntersection\RectangleIntersection\obj\Debug\Geometry.csprojAssemblyReference.cache
